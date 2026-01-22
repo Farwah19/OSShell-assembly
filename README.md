@@ -137,9 +137,5 @@ Please follow the coding style in `osshell.asm` (MASM syntax, tab-indented, comm
 
 ---
 
-## 📝 License
 
-OSShell is released under the **MIT License**. See [`LICENSE`](LICENSE) for details.
-
----
 
